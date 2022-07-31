@@ -1,5 +1,5 @@
-- 👋 Hi, Soy Raúl
-- 👀 Estoy interesado en aprender más y ser más
+- 👋 Hola, Soy Raúl :)
+- 👀 Estoy interesado en aprender más y ser más 
 - 🌱 Argentina Programa Fase 2 #YoProgramo3
 
 <!---
